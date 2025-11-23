@@ -1,5 +1,5 @@
 # Server Performance Stats
-A bash script to analyse basic server performance stats.  
+A bash script to analyse basic server performance for devops.
 
 ## Getting Started
 1. **Clone the repository**
