@@ -1,15 +1,18 @@
-Server Performance Stats
-A bash script to analyse basic server performance stats.
+# Server Performance Stats
+A bash script to analyse basic server performance stats.  
 
-Getting Started
-Clone the repository
+## Getting Started
+1. **Clone the repository**
+    ```
+    git clone https://github.com/AdrienSigur/ServerPerformance.git
+    ```
 
-`git clone https://github.com/AdrienSigur/ServerPerformance/blob/main/serv-stats.sh`
-cd serv-stats 
-Make the script executable
-
-`chmod +x server-stats.sh`
-Execute the script
-
-`./server-stats.sh`
-This project is part of roadmap.sh DevOps projects.
+2. **Make the script executable**
+    ```
+    chmod +x serv-stats.sh
+    ```
+3. **Execute the script**  
+    ```
+    ./serv-stats.sh
+    ```
+This project is part of [roadmap.sh](https://roadmap.sh/projects/server-stats) DevOps projects.
